@@ -1,0 +1,1 @@
+We are faced with the task of predicting the outflow of customers from the bank. We have been provided with a file containing data on the behavior of customers and the fact of their termination or no agreement with the bank. We will study the available data, if necessary, we will do preprocessing and create a model that will help predict the client's churn.
